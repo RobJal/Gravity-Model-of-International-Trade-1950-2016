@@ -1,0 +1,4 @@
+data/
+*.dta
+output/gravity.log
+.DS_Store
