@@ -25,6 +25,8 @@ Estimation in Stata (`reghdfe`, `estout`), with tables exported to LaTeX. The RE
 
 Dependent variable: log of total bilateral trade (exports plus imports). Standard errors clustered by country pair in parentheses. GDP terms are absorbed by the country-year fixed effects in columns (3) and (4).
 
+gravity-model/us_distance_bias_2016.png
+
 ## Method
 
 The baseline gravity equation is
