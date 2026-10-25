@@ -23,9 +23,7 @@ Estimation in Stata (`reghdfe`, `estout`), with tables exported to LaTeX. The RE
 | R² | 0.692 | 0.781 | 0.809 | 0.810 |
 | Observations | 394,874 | 394,874 | 410,356 | 410,356 |
 
-Dependent variable: log of total bilateral trade (exports plus imports). Standard errors clustered by country pair in parentheses. GDP terms are absorbed by the country-year fixed effects in columns (3) and (4).
-
-gravity-model/us_distance_bias_2016.png
+Dependent variable: log of total bilateral trade (exports plus imports). Standard errors clustered by country pair in parentheses. GDP terms are absorbed by the country-year fixed effects in columns (3) and (4).\
 
 ## Method
 
