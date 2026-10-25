@@ -25,14 +25,6 @@ Estimation in Stata (`reghdfe`, `estout`), with tables exported to LaTeX. The RE
 
 Dependent variable: log of total bilateral trade (exports plus imports). Standard errors clustered by country pair in parentheses. GDP terms are absorbed by the country-year fixed effects in columns (3) and (4).
 
-### Distance elasticity over time
-
-![Distance elasticity of trade by year, 1950–2016](output/figures/distance_elasticity_over_time.png)
-
-### Omitted-variable bias: U.S. trade, 2016
-
-![U.S. trade vs. distance in 2016, unadjusted and adjusted for partner GDP](output/figures/us_distance_bias_2016.png)
-
 ## Method
 
 The baseline gravity equation is
